@@ -41,7 +41,7 @@ num_to_string
 
 
 ```python
-full_address = None + " Abc street, Hometown USA"
+full_address = num_to_string + " Abc street, Hometown USA"
 full_address
 ```
 
@@ -57,7 +57,7 @@ help(str)
 
 ```python
 name = "Bart Simpson"
-name = #Your code here; update the variable name
+name = "Bart Flanders"
 ```
 
 ## Summary
